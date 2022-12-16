@@ -4,7 +4,7 @@ The most powerful screen recorder for Chrome. Capture, annotate, edit, and more.
 
 #### Local Install
 
-1. Download `chromium.zip` from [Releases](https://github.com/wong2/chat-gpt-google-extension/releases).
+1. Download `RumzerReco.zip` 
 2. Unzip the file.
 3. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 4. Enable Developer Mode.
