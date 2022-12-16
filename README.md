@@ -4,7 +4,7 @@ The most powerful screen recorder for Chrome. Capture, annotate, edit, and more.
 
 #### Local Install
 
-1. Download `RumzerReco.zip` 
+1. Download '[RumzerReco.zip]'(https://codeload.github.com/atanu16/RumzerReco-Extenstion/zip/refs/heads/main). 
 2. Unzip the file.
 3. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 4. Enable Developer Mode.
